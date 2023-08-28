@@ -5,6 +5,14 @@ public class MyConverter {
     private static final double FT_TO_METER = 0.3048;
     private static final double MI_TO_METER = 1609.344;
 
+    /**
+     * Method that converts from one unit to another unit
+     *
+     * @param fromUnit The unit that should be converted from
+     * @param value The value to be converted
+     * @param toUnit The unit that should be converted to
+     * @return Returns a double as result
+     */
     static double convert(String fromUnit, double value, String toUnit) {
         double inMeters;
         if (fromUnit.equals("in")) {

@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea14c09-22bb-46bc-b473-54c35166b385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/test/java/dat250assignment1/MyConverterTest.java" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/test/java/dat250assignment1/MyConverterTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/MyConverter.java" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/MyConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/MyConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/MyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.MyConverterTest.canConvertBetweenAllUnits">
+  <component name="RunManager" selected="Gradle.MyConverterTest.milesToMetersGivesCorrectResult">
     <configuration name="MyConverterTest.canConvertBetweenAllUnits" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -126,8 +125,33 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="MyConverterTest.milesToMetersGivesCorrectResult" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:test" />
+            <option value="--tests" />
+            <option value="&quot;dat250assignment1.MyConverterTest.milesToMetersGivesCorrectResult&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MyConverterTest.milesToMetersGivesCorrectResult" />
         <item itemvalue="Gradle.MyConverterTest.canConvertBetweenAllUnits" />
         <item itemvalue="Gradle.MyConverterTest.canConvertInchesToFeet" />
       </list>
@@ -144,7 +168,7 @@
       <workItem from="1693061608869" duration="1850000" />
       <workItem from="1693063875981" duration="1661000" />
       <workItem from="1693210986281" duration="1536000" />
-      <workItem from="1693212536153" duration="1778000" />
+      <workItem from="1693212536153" duration="1997000" />
     </task>
     <servers />
   </component>
