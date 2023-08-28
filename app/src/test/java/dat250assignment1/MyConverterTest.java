@@ -4,11 +4,36 @@
 package dat250assignment1;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
-class AppTest {
-    @Test void appHasAGreeting() {
-        App classUnderTest = new App();
-        //assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+
+class MyConverterTest {
+    //Test if each unit can be converted to every other unit
+    @Test void conversionBetweenAllUnitsProducesResult(){
+        var units = new ArrayList<>(
+                Arrays.asList("in", "ft", "mi", "m")
+        );
+
+        for (int i = 0; i < units.size(); i++){
+            for (int j = 0; j < units.size(); j++){
+                var fromUnit = units.get(i);
+                var toUnit = units.get(j);
+                var result = MyConverter.convert(fromUnit, 1, toUnit);
+                assertNotNull(result);
+            }
+        }
+    }
+
+    //Test if conversion from miles to meters produces correct result
+    @Test void milesToMetersGivesCorrectResult(){
+        var fromUnit = "mi";
+        var toUnit = "m";
+        var result = MyConverter.convert(fromUnit, 10, toUnit);
+
+        assertEquals(16093.44, result);
     }
 }

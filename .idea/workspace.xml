@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea14c09-22bb-46bc-b473-54c35166b385" name="Changes" comment="">
-      <change afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/App.java" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/App.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/test/java/dat250assignment1/MyConverterTest.java" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/test/java/dat250assignment1/MyConverterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/MyConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/dat250assignment1/MyConverterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,26 +56,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/maloha/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/build.gradle.kts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "last_opened_file_path": "/home/maloha/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/build.gradle.kts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Gradle.MyConverterTest.canConvertBetweenAllUnits">
+    <configuration name="MyConverterTest.canConvertBetweenAllUnits" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:test" />
+            <option value="--tests" />
+            <option value="&quot;dat250assignment1.MyConverterTest.canConvertBetweenAllUnits&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyConverterTest.canConvertInchesToFeet" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:test" />
+            <option value="--tests" />
+            <option value="&quot;dat250assignment1.MyConverterTest.canConvertInchesToFeet&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MyConverterTest.canConvertBetweenAllUnits" />
+        <item itemvalue="Gradle.MyConverterTest.canConvertInchesToFeet" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,7 +144,7 @@
       <workItem from="1693061608869" duration="1850000" />
       <workItem from="1693063875981" duration="1661000" />
       <workItem from="1693210986281" duration="1536000" />
-      <workItem from="1693212536153" duration="130000" />
+      <workItem from="1693212536153" duration="1778000" />
     </task>
     <servers />
   </component>
