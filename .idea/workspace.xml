@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea14c09-22bb-46bc-b473-54c35166b385" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/App.java" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,7 +87,8 @@
       <updated>1693061607445</updated>
       <workItem from="1693061608869" duration="1850000" />
       <workItem from="1693063875981" duration="1661000" />
-      <workItem from="1693210986281" duration="438000" />
+      <workItem from="1693210986281" duration="1536000" />
+      <workItem from="1693212536153" duration="130000" />
     </task>
     <servers />
   </component>
