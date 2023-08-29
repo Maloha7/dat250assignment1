@@ -1,6 +1,9 @@
 # Dat250assignment1
 Marius Hatland 29.08.2023
 
+## Link to docker image on docker hub
+https://hub.docker.com/repository/docker/maloha7/dat250/tags?page=1&ordering=last_updated
+
 ## Technical problems during installation
 
 The only technical problem I encountered during installation was when trying to install gradle. At first, I tried installing it via the apt package manager in ubuntu. After installing it and trying to run gradle init i encountered the following error message: 

@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea14c09-22bb-46bc-b473-54c35166b385" name="Changes" comment="">
-      <change afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/misc.xml" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/README.md" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/dat250-expass1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/dat250-expass1.md" afterDir="false" />
+      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/dat250-expass1.md" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/dat250-expass1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +216,7 @@
       <workItem from="1693304588799" duration="366000" />
       <workItem from="1693304972667" duration="151000" />
       <workItem from="1693305141162" duration="158000" />
-      <workItem from="1693305312077" duration="475000" />
+      <workItem from="1693305312077" duration="602000" />
     </task>
     <servers />
   </component>
