@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea14c09-22bb-46bc-b473-54c35166b385" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/misc.xml" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/misc.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/MyConverter.java" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/README.md" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/dat250-expass1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/MyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dat250assignment1/MyConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/dat250-expass1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
     "last_opened_file_path": "/home/maloha/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/build.gradle.kts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -76,84 +79,129 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.MyConverterTest.milesToMetersGivesCorrectResult">
-    <configuration name="MyConverterTest.canConvertBetweenAllUnits" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [build]">
+    <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":app:test" />
-            <option value="--tests" />
-            <option value="&quot;dat250assignment1.MyConverterTest.canConvertBetweenAllUnits&quot;" />
+            <option value=":app:check" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="MyConverterTest.canConvertInchesToFeet" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
             <option value=":app:test" />
-            <option value="--tests" />
-            <option value="&quot;dat250assignment1.MyConverterTest.canConvertInchesToFeet&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="MyConverterTest.milesToMetersGivesCorrectResult" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":app:test" />
-            <option value="--tests" />
-            <option value="&quot;dat250assignment1.MyConverterTest.milesToMetersGivesCorrectResult&quot;" />
+            <option value="build" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MyConverterTest.milesToMetersGivesCorrectResult" />
-        <item itemvalue="Gradle.MyConverterTest.canConvertBetweenAllUnits" />
-        <item itemvalue="Gradle.MyConverterTest.canConvertInchesToFeet" />
+        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [build]" />
+        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [init]" />
+        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:test]" />
+        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:check]" />
+        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [check]" />
       </list>
     </recent_temporary>
   </component>
@@ -168,11 +216,22 @@
       <workItem from="1693061608869" duration="1850000" />
       <workItem from="1693063875981" duration="1661000" />
       <workItem from="1693210986281" duration="1536000" />
-      <workItem from="1693212536153" duration="1997000" />
+      <workItem from="1693212536153" duration="4875000" />
+      <workItem from="1693297621289" duration="2840000" />
+      <workItem from="1693301231925" duration="593000" />
+      <workItem from="1693302238411" duration="2329000" />
+      <workItem from="1693304588799" duration="366000" />
+      <workItem from="1693304972667" duration="151000" />
+      <workItem from="1693305141162" duration="158000" />
+      <workItem from="1693305312077" duration="475000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dat250assignment1$dat250assignment1__home_maloha_Insync_marius_hatland_gmail_com_OneDrive_Studie_Master_1semester_DAT250_dat250assignment1__check_.ic" NAME="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [check] Coverage Results" MODIFIED="1693302880528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/dat250assignment1$dat250assignment1__home_maloha_Insync_marius_hatland_gmail_com_OneDrive_Studie_Master_1semester_DAT250_dat250assignment1___app_check_.ic" NAME="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:check] Coverage Results" MODIFIED="1693302964367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
