@@ -5,7 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea14c09-22bb-46bc-b473-54c35166b385" name="Changes" comment="">
-      <change beforePath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/dat250-expass1.md" beforeDir="false" afterPath="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/dat250-expass1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_32_1_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_2_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_javalin_javalin_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_qual_3_33_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_annotations_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_jndi_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_plus_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_toolchain_jetty_jakarta_servlet_api_5_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_core_common_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_core_server_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_jetty_api_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_jetty_common_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_jetty_server_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_servlet_11_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_24_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_8_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_8_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_8_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_8_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_launcher_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_commons_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_tree_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_2_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-751677532/dat250assignment1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1284551990/dat250assignment1.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1284551990/dat250assignment1.app.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1284551990/dat250assignment1.app.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat250-expass1.md" beforeDir="false" afterPath="$PROJECT_DIR$/dat250-expass1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +94,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,7 +117,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/maloha/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1/app/build.gradle.kts",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/maloha/Studie/Master/1semester/DAT250/experimentAssignments/expass1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +137,28 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [build]">
+    <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -144,28 +225,6 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$USER_HOME$/Insync/marius.hatland@gmail.com/OneDrive/Studie/Master/1semester/DAT250/dat250assignment1" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="check" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
     <configuration name="dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -191,10 +250,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [build]" />
-        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [init]" />
         <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:test]" />
+        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:build]" />
+        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [init]" />
         <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [:app:check]" />
-        <item itemvalue="Gradle.dat250assignment1::home:maloha:Insync:marius.hatland@gmail.com:OneDrive:Studie:Master:1semester:DAT250:dat250assignment1 [check]" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +275,12 @@
       <workItem from="1693304588799" duration="366000" />
       <workItem from="1693304972667" duration="151000" />
       <workItem from="1693305141162" duration="158000" />
-      <workItem from="1693305312077" duration="602000" />
+      <workItem from="1693305312077" duration="907000" />
+      <workItem from="1693310268333" duration="1347000" />
+      <workItem from="1693314690193" duration="362000" />
+      <workItem from="1693315066223" duration="149000" />
+      <workItem from="1693823360262" duration="10000" />
+      <workItem from="1694723506076" duration="24000" />
     </task>
     <servers />
   </component>

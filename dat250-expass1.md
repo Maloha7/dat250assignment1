@@ -2,7 +2,7 @@
 Marius Hatland 29.08.2023
 
 ## Link to docker image on docker hub
-https://hub.docker.com/repository/docker/maloha7/dat250/tags?page=1&ordering=last_updated
+https://hub.docker.com/r/maloha7/dat250/tags
 
 ## Technical problems during installation
 
@@ -32,7 +32,7 @@ Another issue was a build error which said:
 > Get more help at https://help.gradle.org.
 BUILD FAILED in 7s
 
-I'm not sure if these problems were related or not, but I was able to fix both of them by reloading all gradle project in the IDE and the rebuliding the project.
+I'm not sure if these problems were related or not, but I was able to fix both of them by reloading all gradle project in the IDE and then rebuilding the project.
 
 ## Pending issues
 

@@ -25,7 +25,7 @@
    My solution to this was to copy all the SQL statements made by hibernate and convert them to a MySQL syntax. Then I could paste the SQL statements into [dbdiagram.io](https://dbdiagram.io/d)
 
    Screenshot:
-   ![Screenshot of database schema](/public/database.jpg?raw=true)
+   ![Screenshot of database schema](./public/database.jpg?raw=true)
 
    The created tables did correspond to my initial thoughts regarding the exercise. I did anticipate there being coupling tables to dissolve the manyToMany relationships between the tables.
 
