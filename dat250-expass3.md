@@ -9,16 +9,16 @@ MongoDB's installation and quickstart process was well documented and I did not 
 ![Validation image](./public/expass3/shasum.png)
 
 - Relevant results obtained during Experiment 1.
-  - Insert
-  ![Insert image](./public/expass3/insert.png)
-  - Query
-  ![Query image](./public/expass3/query.png)
-  - Update
-  ![Update image](./public/expass3/update.png)
-  - Delete
-  ![Delete image](./public/expass3/delete.png)
-  - Bulk operations
-  ![Bulk operations image](./public/expass3/bulk.png)
+  - <h3>Insert</h3>
+  - ![Insert image](./public/expass3/insert.png)
+  - <h3>Query</h3>
+  - ![Query image](./public/expass3/query.png)
+  - <h3>Update</h3>
+  - ![Update image](./public/expass3/update.png)
+  - <h3>Delete</h3>
+  - ![Delete image](./public/expass3/delete.png)
+  - <h3>Bulk operations</h3>
+  - ![Bulk operations image](./public/expass3/bulk.png)
   
 - Experiment 2 example
   ![Example 1 image](./public/expass3/mapReduce1.png)
